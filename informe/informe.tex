@@ -1,0 +1,86 @@
+%\documentclass[a4paper]{article}
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8x]{inputenc} % para poder usar tildes en archivos UTF-8
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{verbatim}
+\usepackage{clrscode3e}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{pdfpages}
+
+%\usepackage{bibtex}
+
+%\usepackage{a4wide} % márgenes un poco más anchos que lo usual
+
+\usepackage{caratula} % Se puede descargar en ~> https://github.com/bcardiff/dc-tex
+\usepackage[breaklinks=true]{hyperref}
+
+
+\begin{document} % Todo lo que escribamos a partir de aca va a aparecer en el documento.
+
+%fran
+%\sloppy
+
+% Completar los datos de la caratula
+\titulo{Trabajo Práctico 3 - Tomografía computada} 
+\fecha{\today}
+\materia{Métodos Numéricos}
+\grupo{Grupo "Greco-Herrera-Kubrak-Salvador"}
+
+% Completar los integrantes del grupo:)
+\integrante{Cristian, Kubrak}{456/15}{Kubrakcristian@gmail.com}
+\integrante{Marcela Alejandra, Herrera}{1162/84}{marcelaalejandraherrera@yahoo.com.ar}
+\integrante{Luis Fernando, Greco}{150/15}{luifergreco@gmail.com}
+\integrante{Alejo, Salvador}{467/15}{alejo.antonio.salvador@gmail.com}
+
+
+\maketitle
+\par \textbf{Abstract:} El objetivo del Trabajo es realizar la simulación de una tomografía computada partiendo de imágenes tomográficas reales en formato 16 bits. La misma se realiza generando una simulación de rayos X que atraviesan la imagen, la cual es discretizada en una cuadrícula de tamaño parametrizable. Una vez generados los rayos se realiza la reconstrucción de la imagen utilizando el método de cuadrados mínimos lineales, luego se realiza una evaluación de los resultados obtenidos usando error cuadrático medio y la reconstrucción de la imagen en formato pgm de 8 bits.
+
+\par  \textbf{Palabras clave:} reconstrucción de imagen tomográfica - cuadrados mínimos lineales - error cuadrático medio
+% Aca comienzan a escribir su informe
+\tableofcontents
+
+
+\newpage
+
+\section{Introducción}
+\input{introduccion}
+\newpage
+
+% \section{Demostraciones}
+% \newpage
+
+\section{Desarrollo}
+\input{desarrollo}
+\newpage
+
+% \section{Experimentación}
+% \input{experimentacion}
+% \newpage
+
+\section{Resultados y discusion}
+\input{resultados}
+\newpage
+
+
+% \section{Discusión}
+% \input{discusion}
+% \newpage
+
+\section{Conclusiones}
+\input{conclusiones}
+\newpage
+
+\section{Apendices}
+\input{apendices}	
+\newpage
+
+\section{Referencias}
+\input{referencias}	
+\newpage
+
+
+\end{document}
+

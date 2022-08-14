@@ -1,0 +1,1485 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.3)  1 JUL 2018 23:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**informe.tex
+(./informe.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/01/15 v5.0o Spanish support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@quottoks=\toks19
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 533.
+Package babel Info: Making . an active character on input line 634.
+Package babel Info: Making < an active character on input line 679.
+Package babel Info: Making > an active character on input line 679.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/clrscode3e/clrscode3e.sty
+Package: clrscode3e 
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\c@codelinenumber=\count91
+\c@indent=\count92
+\digitwidth=\skip43
+\savecode=\box26
+\codeboxwidth=\skip44
+\c@thisindent=\count93
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks24
+\float@box=\box27
+\@float@everytoks=\toks25
+\@floatcapt=\box28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count97
+\calc@Cskip=\skip47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen108
+\AM@pageheight=\dimen109
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box29
+\AM@toc@title=\toks26
+\c@AM@survey=\count98
+\AM@templatesizebox=\box30
+)
+(./caratula.sty
+Package: caratula 2013/08/04 v0.5 Para componer caratulas de TPs del DC
+
+Cargando package 'caratula' v0.5 (2013/08/04)
+\intlist=\toks27
+\intlistSinLU=\toks28
+\c@integrantesCount=\count99
+\intTabNombre=\toks29
+\intTabLU=\toks30
+\intTabEmail=\toks31
+\c@directoresCount=\count100
+\direcTabNombre=\toks32
+\direcTabEmail=\toks33
+\c@coDirectoresCount=\count101
+\codirecTabNombre=\toks34
+\codirecTabEmail=\toks35
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen110
+\Hy@linkcounter=\count102
+\Hy@pagecounter=\count103
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count104
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count105
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen111
+\Fld@menulength=\count106
+\Field@Width=\dimen112
+\Fld@charsize=\dimen113
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+(./informe.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+
+
+LaTeX Warning: Label `fig:etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `fig:etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `fig:emisores' multiply defined.
+
+)
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen114
+\scratchbox=\box31
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen115
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks37
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box32
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+Package hyperref Info: Link coloring OFF on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count118
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+(./informe.out) (./informe.out)
+\@outlinefile=\write3
+\openout3 = `informe.out'.
+
+
+<img/logo_dc.jpg, id=28, 215.6055pt x 83.5923pt>
+File: img/logo_dc.jpg Graphic file (type jpg)
+ <use img/logo_dc.jpg>
+Package pdftex.def Info: img/logo_dc.jpg used on input line 39.
+(pdftex.def)             Requested size: 215.60497pt x 83.59207pt.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (45.58192pt too wide) in paragraph at lines 39--39
+ [][] 
+ []
+
+<img/logo_uba.jpg, id=29, 225.4824pt x 231.7458pt>
+File: img/logo_uba.jpg Graphic file (type jpg)
+ <use img/logo_uba.jpg>
+Package pdftex.def Info: img/logo_uba.jpg used on input line 39.
+(pdftex.def)             Requested size: 225.48184pt x 231.74522pt.
+
+Overfull \hbox (35.73079pt too wide) in paragraph at lines 39--39
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 39.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 39.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_dc.jpg> <./img/
+logo_uba.jpg>] (./informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write4
+\openout4 = `informe.toc'.
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 46.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 46.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46 \newpage
+              [1]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 48.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 48.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 48.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 48.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 48.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 48.
+ (./introduccion.tex
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 27.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 27.
+ [2])
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 50.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 50.
+ [3]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 55.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 55.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 55.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 55.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 55.
+
+(./desarrollo.tex
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 22.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 22.
+ [4]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 53.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 53.
+ [5]
+<img/rayos_tomo25x25px.png, id=78, 429.10312pt x 338.76563pt>
+File: img/rayos_tomo25x25px.png Graphic file (type png)
+
+<use img/rayos_tomo25x25px.png>
+Package pdftex.def Info: img/rayos_tomo25x25px.png used on input line 64.
+(pdftex.def)             Requested size: 345.0pt x 272.37234pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 76.
+ [6 <./img/rayos_tomo25x25px.png (PNG copy)>])
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 57.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 57.
+
+[7]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 63.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 63.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 63.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 63.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 63.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 63.
+ (./resultados.tex <img/sinRuido.png, id=91, 549.55313pt x 353.06906pt>
+File: img/sinRuido.png Graphic file (type png)
+
+<use img/sinRuido.png>
+Package pdftex.def Info: img/sinRuido.png used on input line 12.
+(pdftex.def)             Requested size: 241.49895pt x 155.15152pt.
+
+<img/ruidoAditivo.png, id=92, 549.55313pt x 353.06906pt>
+File: img/ruidoAditivo.png Graphic file (type png)
+
+<use img/ruidoAditivo.png>
+Package pdftex.def Info: img/ruidoAditivo.png used on input line 19.
+(pdftex.def)             Requested size: 241.49895pt x 155.15152pt.
+
+<img/ruidoMultiplicativo.png, id=93, 549.55313pt x 353.06906pt>
+File: img/ruidoMultiplicativo.png Graphic file (type png)
+
+<use img/ruidoMultiplicativo.png>
+Package pdftex.def Info: img/ruidoMultiplicativo.png used on input line 27.
+(pdftex.def)             Requested size: 241.49895pt x 155.15152pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 30.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 30.
+ [8 <./img/sinRuido.png (PNG copy)> <./img/ruidoAditivo.png (PNG copy)>]
+Package epstopdf Info: Source file: <img/cantrayos_tiempo.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 17273 bytes
+(epstopdf)             Output file: <img/cantrayos_tiempo-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-07-01 23:10:26
+(epstopdf)                    size: 7310 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/cantrayos_tiempo-eps-c
+onverted-to.pdf img/cantrayos_tiempo.eps>
+(epstopdf)             \includegraphics on input line 35.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/cantrayos_tiempo-eps-converted-to.pdf, id=100, 512.91624pt x 523.9575pt>
+File: img/cantrayos_tiempo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/cantrayos_tiempo-eps-converted-to.pdf>
+Package pdftex.def Info: img/cantrayos_tiempo-eps-converted-to.pdf used on inpu
+t line 35.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package epstopdf Info: Source file: <img/cantrayos_ecm.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 16571 bytes
+(epstopdf)             Output file: <img/cantrayos_ecm-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:27
+(epstopdf)                    size: 6898 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/cantrayos_ecm-eps-conv
+erted-to.pdf img/cantrayos_ecm.eps>
+(epstopdf)             \includegraphics on input line 44.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/cantrayos_ecm-eps-converted-to.pdf, id=101, 512.91624pt x 523.9575pt>
+File: img/cantrayos_ecm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/cantrayos_ecm-eps-converted-to.pdf>
+Package pdftex.def Info: img/cantrayos_ecm-eps-converted-to.pdf used on input l
+ine 44.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 47.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 47.
+ [9 <./img/ruidoMultiplicativo.png (PNG copy)> <./img/cantrayos_tiempo-eps-conv
+erted-to.pdf>]
+Package epstopdf Info: Source file: <img/emi_tiempo.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 16073 bytes
+(epstopdf)             Output file: <img/emi_tiempo-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:27
+(epstopdf)                    size: 6810 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/emi_tiempo-eps-convert
+ed-to.pdf img/emi_tiempo.eps>
+(epstopdf)             \includegraphics on input line 52.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/emi_tiempo-eps-converted-to.pdf, id=113, 512.91624pt x 523.9575pt>
+File: img/emi_tiempo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/emi_tiempo-eps-converted-to.pdf>
+Package pdftex.def Info: img/emi_tiempo-eps-converted-to.pdf used on input line
+ 52.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 56.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 56.
+ [10 <./img/cantrayos_ecm-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/emi_ecm.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 15907 bytes
+(epstopdf)             Output file: <img/emi_ecm-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:27
+(epstopdf)                    size: 6335 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/emi_ecm-eps-converted-
+to.pdf img/emi_ecm.eps>
+(epstopdf)             \includegraphics on input line 60.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/emi_ecm-eps-converted-to.pdf, id=124, 512.91624pt x 523.9575pt>
+File: img/emi_ecm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/emi_ecm-eps-converted-to.pdf>
+Package pdftex.def Info: img/emi_ecm-eps-converted-to.pdf used on input line 60
+.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 64.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 64.
+ [11 <./img/emi_tiempo-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/granu_tiempo.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 16706 bytes
+(epstopdf)             Output file: <img/granu_tiempo-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:28
+(epstopdf)                    size: 6842 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/granu_tiempo-eps-conve
+rted-to.pdf img/granu_tiempo.eps>
+(epstopdf)             \includegraphics on input line 67.
+Package epstopdf Info: Output file is already uptodate.
+ <img/granu_tiempo-eps-converted-to.pdf, id=135, 512.91624pt x 523.9575pt>
+File: img/granu_tiempo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/granu_tiempo-eps-converted-to.pdf>
+Package pdftex.def Info: img/granu_tiempo-eps-converted-to.pdf used on input li
+ne 67.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 71.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 71.
+ [12 <./img/emi_ecm-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/granu_ecm.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 15634 bytes
+(epstopdf)             Output file: <img/granu_ecm-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:28
+(epstopdf)                    size: 5734 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/granu_ecm-eps-converte
+d-to.pdf img/granu_ecm.eps>
+(epstopdf)             \includegraphics on input line 74.
+Package epstopdf Info: Output file is already uptodate.
+ <img/granu_ecm-eps-converted-to.pdf, id=147, 512.91624pt x 523.9575pt>
+File: img/granu_ecm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/granu_ecm-eps-converted-to.pdf>
+Package pdftex.def Info: img/granu_ecm-eps-converted-to.pdf used on input line 
+74.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 78.
+ [13 <./img/granu_tiempo-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/ruido_tiempo.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 16550 bytes
+(epstopdf)             Output file: <img/ruido_tiempo-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:28
+(epstopdf)                    size: 6547 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/ruido_tiempo-eps-conve
+rted-to.pdf img/ruido_tiempo.eps>
+(epstopdf)             \includegraphics on input line 81.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/ruido_tiempo-eps-converted-to.pdf, id=158, 512.91624pt x 523.9575pt>
+File: img/ruido_tiempo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/ruido_tiempo-eps-converted-to.pdf>
+Package pdftex.def Info: img/ruido_tiempo-eps-converted-to.pdf used on input li
+ne 81.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 85.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 85.
+ [14 <./img/granu_ecm-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/ruido_ecm.eps>
+(epstopdf)                    date: 2018-07-01 23:00:11
+(epstopdf)                    size: 16807 bytes
+(epstopdf)             Output file: <img/ruido_ecm-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-01 23:10:29
+(epstopdf)                    size: 5786 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/ruido_ecm-eps-converte
+d-to.pdf img/ruido_ecm.eps>
+(epstopdf)             \includegraphics on input line 89.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/ruido_ecm-eps-converted-to.pdf, id=170, 512.91624pt x 523.9575pt>
+File: img/ruido_ecm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/ruido_ecm-eps-converted-to.pdf>
+Package pdftex.def Info: img/ruido_ecm-eps-converted-to.pdf used on input line 
+89.
+(pdftex.def)             Requested size: 241.49895pt x 246.69978pt.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 93.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 93.
+ [15 <./img/ruido_tiempo-eps-converted-to.pdf>])
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 65.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 65.
+ [16 <./img/ruido_ecm-eps-converted-to.pdf>]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 72.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 72.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 72.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 72.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 72.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 72.
+ (./conclusiones.tex)
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 74.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 74.
+
+[17]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 76.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 76.
+ (./apendices.tex
+<img/tomo_emisores_20.png, id=196, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_20.png Graphic file (type png)
+
+<use img/tomo_emisores_20.png>
+Package pdftex.def Info: img/tomo_emisores_20.png used on input line 15.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_emisores_40.png, id=197, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_40.png Graphic file (type png)
+
+<use img/tomo_emisores_40.png>
+Package pdftex.def Info: img/tomo_emisores_40.png used on input line 16.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_emisores_60.png, id=198, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_60.png Graphic file (type png)
+
+<use img/tomo_emisores_60.png>
+Package pdftex.def Info: img/tomo_emisores_60.png used on input line 17.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_emisores_80.png, id=199, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_80.png Graphic file (type png)
+
+<use img/tomo_emisores_80.png>
+Package pdftex.def Info: img/tomo_emisores_80.png used on input line 18.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_emisores_100.png, id=200, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_100.png Graphic file (type png)
+
+<use img/tomo_emisores_100.png>
+Package pdftex.def Info: img/tomo_emisores_100.png used on input line 19.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_emisores_120.png, id=201, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_120.png Graphic file (type png)
+
+<use img/tomo_emisores_120.png>
+Package pdftex.def Info: img/tomo_emisores_120.png used on input line 20.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_emisores_140.png, id=202, 10.0375pt x 10.0375pt>
+File: img/tomo_emisores_140.png Graphic file (type png)
+
+<use img/tomo_emisores_140.png>
+Package pdftex.def Info: img/tomo_emisores_140.png used on input line 21.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_50.png, id=203, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_50.png Graphic file (type png)
+
+<use img/tomo_rayos_50.png>
+Package pdftex.def Info: img/tomo_rayos_50.png used on input line 29.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_60.png, id=204, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_60.png Graphic file (type png)
+
+<use img/tomo_rayos_60.png>
+Package pdftex.def Info: img/tomo_rayos_60.png used on input line 30.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_70.png, id=205, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_70.png Graphic file (type png)
+
+<use img/tomo_rayos_70.png>
+Package pdftex.def Info: img/tomo_rayos_70.png used on input line 31.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_80.png, id=206, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_80.png Graphic file (type png)
+
+<use img/tomo_rayos_80.png>
+Package pdftex.def Info: img/tomo_rayos_80.png used on input line 32.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_90.png, id=207, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_90.png Graphic file (type png)
+
+<use img/tomo_rayos_90.png>
+Package pdftex.def Info: img/tomo_rayos_90.png used on input line 33.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_100.png, id=208, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_100.png Graphic file (type png)
+
+<use img/tomo_rayos_100.png>
+Package pdftex.def Info: img/tomo_rayos_100.png used on input line 34.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_110.png, id=209, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_110.png Graphic file (type png)
+
+<use img/tomo_rayos_110.png>
+Package pdftex.def Info: img/tomo_rayos_110.png used on input line 35.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_120.png, id=210, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_120.png Graphic file (type png)
+
+<use img/tomo_rayos_120.png>
+Package pdftex.def Info: img/tomo_rayos_120.png used on input line 36.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_130.png, id=211, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_130.png Graphic file (type png)
+
+<use img/tomo_rayos_130.png>
+Package pdftex.def Info: img/tomo_rayos_130.png used on input line 37.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_rayos_140.png, id=212, 10.0375pt x 10.0375pt>
+File: img/tomo_rayos_140.png Graphic file (type png)
+
+<use img/tomo_rayos_140.png>
+Package pdftex.def Info: img/tomo_rayos_140.png used on input line 38.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_granu_5.png, id=213, 20.075pt x 20.075pt>
+File: img/tomo_granu_5.png Graphic file (type png)
+ <use img/tomo_granu_5.png>
+Package pdftex.def Info: img/tomo_granu_5.png used on input line 46.
+(pdftex.def)             Requested size: 17.25105pt x 17.25159pt.
+
+<img/tomo_granu_10.png, id=214, 10.0375pt x 10.0375pt>
+File: img/tomo_granu_10.png Graphic file (type png)
+
+<use img/tomo_granu_10.png>
+Package pdftex.def Info: img/tomo_granu_10.png used on input line 47.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_granu_20.png, id=215, 5.01875pt x 5.01875pt>
+File: img/tomo_granu_20.png Graphic file (type png)
+
+<use img/tomo_granu_20.png>
+Package pdftex.def Info: img/tomo_granu_20.png used on input line 48.
+(pdftex.def)             Requested size: 17.25105pt x 17.25491pt.
+ <img/tomo_granu_25.png, id=216, 4.015pt x 4.015pt>
+File: img/tomo_granu_25.png Graphic file (type png)
+
+<use img/tomo_granu_25.png>
+Package pdftex.def Info: img/tomo_granu_25.png used on input line 49.
+(pdftex.def)             Requested size: 17.25105pt x 17.25665pt.
+
+<img/tomo_granu_50.png, id=217, 2.0075pt x 2.0075pt>
+File: img/tomo_granu_50.png Graphic file (type png)
+
+<use img/tomo_granu_50.png>
+Package pdftex.def Info: img/tomo_granu_50.png used on input line 50.
+(pdftex.def)             Requested size: 17.25105pt x 17.26508pt.
+
+<img/tomo_ruido001.png, id=218, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido001.png Graphic file (type png)
+
+<use img/tomo_ruido001.png>
+Package pdftex.def Info: img/tomo_ruido001.png used on input line 58.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido002.png, id=219, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido002.png Graphic file (type png)
+
+<use img/tomo_ruido002.png>
+Package pdftex.def Info: img/tomo_ruido002.png used on input line 59.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido003.png, id=220, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido003.png Graphic file (type png)
+
+<use img/tomo_ruido003.png>
+Package pdftex.def Info: img/tomo_ruido003.png used on input line 60.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido004.png, id=221, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido004.png Graphic file (type png)
+
+<use img/tomo_ruido004.png>
+Package pdftex.def Info: img/tomo_ruido004.png used on input line 61.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido005.png, id=222, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido005.png Graphic file (type png)
+
+<use img/tomo_ruido005.png>
+Package pdftex.def Info: img/tomo_ruido005.png used on input line 62.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido006.png, id=223, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido006.png Graphic file (type png)
+
+<use img/tomo_ruido006.png>
+Package pdftex.def Info: img/tomo_ruido006.png used on input line 63.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido01.png, id=224, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido01.png Graphic file (type png)
+
+<use img/tomo_ruido01.png>
+Package pdftex.def Info: img/tomo_ruido01.png used on input line 64.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+
+<img/tomo_ruido05.png, id=225, 10.0375pt x 10.0375pt>
+File: img/tomo_ruido05.png Graphic file (type png)
+
+<use img/tomo_ruido05.png>
+Package pdftex.def Info: img/tomo_ruido05.png used on input line 65.
+(pdftex.def)             Requested size: 17.25105pt x 17.25157pt.
+)
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 78.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 78.
+ [18 <./img/tomo_emisores_20.png> <./img/tomo_emisores_40.png> <./img/tomo_emis
+ores_60.png> <./img/tomo_emisores_80.png> <./img/tomo_emisores_100.png> <./img/
+tomo_emisores_120.png> <./img/tomo_emisores_140.png> <./img/tomo_rayos_50.png> 
+<./img/tomo_rayos_60.png> <./img/tomo_rayos_70.png> <./img/tomo_rayos_80.png> <
+./img/tomo_rayos_90.png> <./img/tomo_rayos_100.png> <./img/tomo_rayos_110.png> 
+<./img/tomo_rayos_120.png> <./img/tomo_rayos_130.png> <./img/tomo_rayos_140.png
+> <./img/tomo_granu_5.png> <./img/tomo_granu_10.png> <./img/tomo_granu_20.png> 
+<./img/tomo_granu_25.png> <./img/tomo_granu_50.png> <./img/tomo_ruido001.png> <
+./img/tomo_ruido002.png> <./img/tomo_ruido003.png> <./img/tomo_ruido004.png> <.
+/img/tomo_ruido005.png> <./img/tomo_ruido006.png> <./img/tomo_ruido01.png> <./i
+mg/tomo_ruido05.png>]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 80.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 80.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 80.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 80.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 80.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 80.
+ (./referencias.tex
+Overfull \hbox (5.36177pt too wide) in paragraph at lines 2--3
+[]\OT1/cmr/m/n/10 https://es.slideshare.net/sriAnkush/comparative-study-of-salt
+-pepper-filters-
+ []
+
+)
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 82.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 82.
+ [19]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
+ (./informe.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package rerunfilecheck Info: File `informe.out' has not changed.
+(rerunfilecheck)             Checksum: 708915EB55CE95BBBA6EA76AE7335961;289.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
+ ) 
+Here is how much of TeX's memory you used:
+ 8873 strings out of 493029
+ 128139 string characters out of 6136235
+ 227342 words of memory out of 5000000
+ 12163 multiletter control sequences out of 15000+600000
+ 7624 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,8n,39p,938b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on informe.pdf (20 pages, 767036 bytes).
+PDF statistics:
+ 298 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
+
